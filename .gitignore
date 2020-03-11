@@ -1,0 +1,10 @@
+target/
+.idea/
+**.idea/
+.idea/*
+*.iml
+*.swp
+reports/
+STDOUT
+lib/
+logs/
